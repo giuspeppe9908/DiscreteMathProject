@@ -1,0 +1,2 @@
+Questo folder contiene la classe LinearCongruences che calcola le congruenze linerai fornendo a,b ed n.
+Trova e restituisce le congruenze lineari mod n.
