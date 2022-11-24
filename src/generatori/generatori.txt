@@ -1,0 +1,2 @@
+ Questo folder contiene la classe Generatori, applicata alla struttura <Zn,+>
+ Permette di trovare i generatori e stamparli a video, data una base n.
