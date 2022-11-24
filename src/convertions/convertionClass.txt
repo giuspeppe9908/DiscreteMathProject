@@ -1,0 +1,1 @@
+Questo folder contiene la classe Convertion dove un algoritmo qualsiasi sia il numero, viene convertito in una data base.
