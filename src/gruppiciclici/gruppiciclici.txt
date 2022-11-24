@@ -1,0 +1,2 @@
+Questo folder contiene la classe dei gruppi ciclici.
+Semplicemente date due classi Zn e Zm, fornisce un risultato T/F se quindi i gruppi sono ciclici o no. 
